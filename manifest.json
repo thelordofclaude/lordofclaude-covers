@@ -1,8 +1,10 @@
 {
 "ai": [
+"Zuckerberg promises superintelligence ai for all",
 "ai-frontier-models-break-containment-and-breach-external-systems",
 "ai-graveyard-tracking-failed-startups-products-and-corporate-initiatives",
 "ai-models-breach-industrial-networks-and-move-physical-hardware",
+"an-anthropic-researchers-doomsday-warning-comes-at-a-very-in-0",
 "analysis-railway-secures-100-million-to-challenge-aws-with-a-0",
 "anthropic-disables-live-web-access-after-claude-targets-real-sites",
 "anthropic-loosens-claudes-cyber-restrictions-for-verified-defenders",
@@ -37,6 +39,8 @@
 "five-federal-mcp-servers-remain-unpatched-exposing-structural-security-gap",
 "former-openai-engineer-arrested-for-planting-hidden-recorder-in-san",
 "glm-53-and-the-spread-of-advanced-cyber-capabilities",
+"google-cloud-opens-singapore-ai-engineering-center",
+"google-cloud-races-to-catch-up-in-the-ai-deployment-wars-wit-0",
 "google-launches-gemini-4-carbon-with-new-swarm-agent-feature",
 "google-releases-gemini-4-carbon-with-cyberdefense-gains",
 "grok-build-coding-agent-leaks-confidential-data-and-spacexsi-secrets",
@@ -44,7 +48,11 @@
 "hundreds-of-exposed-artex-ai-hacking-tools-found-online",
 "iam-enables-ai-transformation-at-oracle",
 "ibm-security-report-shows-ai-phishing-speeds-attack-timelines",
+"inside-the-shift-openais-sam-altman-says-it-would-be-ill-adv-0",
+"inside-the-shift-whats-behind-the-ai-industrys-latest-warnin-1",
 "iphone-owners-can-now-submit-claims-in-apples-250-million-siri-ai-settlement",
+"jensen-huang-resigns-amid-multiple-affairs-and-congressional-security-probe",
+"kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-0",
 "laravel-ai-sdk-and-laravel-mcp-security-fixes-update-now",
 "last-minute-halloween-costume-ideas-for-tech-nerds-inspired-by-industry",
 "leaked-master-key-enables-supply-chain-attack-on-litellm-release-pipeline",
@@ -84,14 +92,17 @@
 "opencode-console-breach-exposes-third-party-ai-api-keys",
 "oracles-iam-upgrade-fuels-ai-transformation-while-raising-new-security-stakes",
 "pingcap-source-theft-bluesky-phishing-and-opencode-breach-dominate",
+"post-training-supply-chain-attacks-can-hijack-coding-ai-agents",
 "scope-autonomous-pentesting-agent-built-for-meta-hackathon",
 "security-researchers-say-anthropics-mcp-protocol-puts-200000-servers-at-risk",
 "sentinelone-uses-openai-daybreak-to-cut-malware-reversing-time",
 "shared-chatgpt-links-exposed-private-conversations-and-session-access",
+"shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-as-0",
 "sony-and-umg-are-suing-suno-again",
 "south-korean-banks-were-likely-hacked-by-a-china-based-actor-with-an-ai-agent-crowdstrike-says",
 "spotify-billionaires-body-scan-startup-has-come-to-america",
 "supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock",
+"superintelligence-is-coming-should-we-let-it-0",
 "sysdig-launches-ai-defense-for-agentic-ai-runtime-security",
 "the-ai-models-that-cheat-the-most-according-to-new-cais-benchmark",
 "third-moment-deploys-10000-autonomous-agents-across-multi-day-sessions",
@@ -109,15 +120,5 @@
 "why-attack-path-analysis-could-stop-rogue-ai-agent-swarms",
 "xbow-uses-gpt-56-sol-to-build-250k-chrome-exploit-in-six-days"
 ],
-"fallback": [
-"Zuckerberg promises superintelligence ai for all",
-"an-anthropic-researchers-doomsday-warning-comes-at-a-very-in-0",
-"google-cloud-opens-singapore-ai-engineering-center",
-"google-cloud-races-to-catch-up-in-the-ai-deployment-wars-wit-0",
-"inside-the-shift-openais-sam-altman-says-it-would-be-ill-adv-0",
-"inside-the-shift-whats-behind-the-ai-industrys-latest-warnin-1",
-"kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-0",
-"shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-as-0",
-"superintelligence-is-coming-should-we-let-it-0"
-]
+"fallback": []
 }
