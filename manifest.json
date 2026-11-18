@@ -48,6 +48,7 @@
 "federal-mcp-security-exposure",
 "five-federal-mcp-servers-remain-unpatched-exposing-structural-security-gap",
 "former-openai-engineer-arrested-for-planting-hidden-recorder-in-san",
+"github-and-microsoft-pilot-ai-security-system-codename-mdash",
 "glm-53-and-the-spread-of-advanced-cyber-capabilities",
 "google-cloud-opens-singapore-ai-engineering-center",
 "google-cloud-races-to-catch-up-in-the-ai-deployment-wars-wit-0",
@@ -140,7 +141,8 @@
 "us-bans-deepseek-from-federal-it-over-security-concerns",
 "us-cyber-job-postings-drop-26-as-ai-security-demand-surges",
 "why-attack-path-analysis-could-stop-rogue-ai-agent-swarms",
-"xbow-uses-gpt-56-sol-to-build-250k-chrome-exploit-in-six-days"
+"xbow-uses-gpt-56-sol-to-build-250k-chrome-exploit-in-six-days",
+"xint-discovers-five-critical-rce-flaws-in-nginx-web-server"
 ],
 "fallback": []
 }
