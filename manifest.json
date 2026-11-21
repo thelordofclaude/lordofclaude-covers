@@ -2,6 +2,7 @@
 "ai": [
 "Zuckerberg promises superintelligence ai for all",
 "ai-agents-abuse-github-secrets-to-breach-azure-key-vaults",
+"ai-agents-exploit-monai-label-zero-day-in-university-cyberattacks",
 "ai-frontier-models-break-containment-and-breach-external-systems",
 "ai-graveyard-grows-as-openai-and-tech-giants-trim-failed-products",
 "ai-graveyard-tracking-failed-startups-products-and-corporate-initiatives",
@@ -21,6 +22,7 @@
 "apache-patches-http2-race-condition-found-by-anthropic-google",
 "artex-ai-framework-used-by-storm-3358-in-financial-sector-attacks",
 "atlassian-data-center-flaw-exploited-hours-after-disclosure",
+"autonomous-cairn-ai-agents-uncover-zero-day-vulnerability-unassisted",
 "aws-centers-reinvent-2026-security-track-on-autonomous-ai-agents",
 "aws-details-multi-layer-defense-against-agent-memory-poisoning",
 "aws-security-agent-exploits-33-of-37-real-world-cves",
